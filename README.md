@@ -86,7 +86,8 @@ A link will appear — open it to start chatting.
 
 
 ```markdown
-![Chatbot Demo](./Screenshot%20.jpg)
+![Screenshot ](https://github.com/user-attachments/assets/bcb35ff2-7399-4ed7-a4c4-c8ad8514b2e0)
+
 ```
 
 ---
