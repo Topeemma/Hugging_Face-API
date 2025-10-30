@@ -1,5 +1,5 @@
 
----
+
 
 ## 🧠 Conversational AI Chatbot with Memory
 
@@ -8,7 +8,6 @@ It uses the **Hugging Face API** and a **Gradio interface**, and it runs in Goog
 
 The goal was to move from a basic one-shot chatbot to something that can understand and follow a continuous discussion — for example, remembering someone’s name or favorite food after they mention it.
 
----
 
 ### 🔗 Live Chat Demo
 
@@ -16,7 +15,6 @@ You can test the chatbot here (works when Colab session is running):
 
 👉 [https://e6b93e5fccdfe26856.gradio.live/](https://e6b93e5fccdfe26856.gradio.live/)
 
----
 
 ### 🌟 What This Chatbot Can Do
 
@@ -26,8 +24,6 @@ You can test the chatbot here (works when Colab session is running):
 * Display a friendly Gradio interface
 * Works easily in Google Colab
 
----
-
 ### 🧰 Tools and Technologies
 
 * **Python**
@@ -36,7 +32,6 @@ You can test the chatbot here (works when Colab session is running):
 * **Gradio**
 * **Google Colab**
 
----
 
 ### 📌 How the Memory Works
 
@@ -44,7 +39,6 @@ Each time the user sends a message, it gets stored in a list.
 When the model replies, that is also added.
 So over time, the model sees the full chat history and can refer back when needed.
 
----
 
 ### ▶️ Running the Project
 
@@ -69,11 +63,10 @@ python app.py
 
 This will open a link in your browser where you can chat with the bot.
 
----
 
 ### 💬 Example Conversation
 
-```
+
 User: Hello, my name is Sarah and I love pizza.
 Bot: Nice to meet you Sarah! Pizza is a great choice.
 
@@ -84,17 +77,13 @@ User: What do I love?
 Bot: You love pizza.
 ```
 
----
 
 ### 📸 Screenshot
 
 ```markdown
-### Screenshot
-![Chatbot Demo](./Screenshot.jpg)
+![Chatbot Demo](./Screenshot .jpg)
 ```
 
-
----
 
 ### 👤 Creator
 
@@ -103,7 +92,6 @@ Bot: You love pizza.
 
 This project is part of my practice in building real AI applications and improving my understanding of how chat memory works.
 
----
 
 ### 🙌 Notes
 
@@ -114,7 +102,6 @@ Still planning to explore:
 * Deploying permanently on Hugging Face Spaces
 * Adding voice input/output later
 
----
 
 ### ⭐ If you like this project
 
