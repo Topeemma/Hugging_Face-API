@@ -86,7 +86,9 @@ A link will appear — open it to start chatting.
 
 
 ```markdown
-![Screenshot ](https://github.com/user-attachments/assets/bcb35ff2-7399-4ed7-a4c4-c8ad8514b2e0)
+### 📸 Screenshot
+<img src="https://github.com/user-attachments/assets/bcb35ff2-7399-4ed7-a4c4-c8ad8514b2e0" width="600">
+
 
 ```
 
