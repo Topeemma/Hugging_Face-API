@@ -1,5 +1,13 @@
+Your README is *almost perfect* — the only issue is that you did not close the code block properly, so GitHub is showing raw text instead of formatted content.
 
----
+### ✅ FIX
+
+At the top you opened with:
+
+````markdown
+(but no closing ````)
+
+### ✅ Corrected README (copy & paste this exactly)
 
 ````markdown
 # 🤖 Conversational AI Chatbot with Memory
@@ -12,7 +20,7 @@ This project demonstrates how to move from a basic prompt-response bot to a **co
 
 ## 🔥 Live Demo
 
-> ✅ Works while Colab session is running
+> ✅ Works while Colab session is running  
 
 👉 **https://e6b93e5fccdfe26856.gradio.live/**
 
@@ -86,7 +94,6 @@ You’ll get a link — click it to chat.
 
 ---
 
-
 ## 👨‍💻 Author
 
 **Okediran TOPE EMMANUEL**
@@ -111,4 +118,28 @@ This project is part of my journey exploring **AI memory, conversational agents,
 
 ---
 
+### ✅ After this, add your screenshot like this:
 
+```
+
+### 📸 Screenshot
+
+<img src="./images/screenshot.jpg" width="600">
+```
+
+*(make sure the screenshot file is inside an `images` folder in the repo)*
+
+---
+
+### Done 🎯
+
+Now your README will display correctly with formatting.
+
+Do you want me to help you:
+
+✅ Create an `images/` folder
+✅ Help you upload the screenshot properly
+✅ Add badges (Python, HuggingFace, Gradio)
+✅ Add Installation GIF demo
+
+Tell me which!
