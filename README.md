@@ -1,13 +1,3 @@
-Your README is *almost perfect* — the only issue is that you did not close the code block properly, so GitHub is showing raw text instead of formatted content.
-
-### ✅ FIX
-
-At the top you opened with:
-
-````markdown
-(but no closing ````)
-
-### ✅ Corrected README (copy & paste this exactly)
 
 ````markdown
 # 🤖 Conversational AI Chatbot with Memory
@@ -77,18 +67,16 @@ os.environ["HF_API_KEY"] = "your_key_here"
 python app.py
 ```
 
-You’ll get a link — click it to chat.
-
 ---
 
 ## 💬 Example Conversation
 
 > **User:** Hi, my name is Sarah and I love pizza.
 > **Bot:** Nice to meet you Sarah! Pizza sounds delicious 😄
->
+
 > **User:** What's my name?
 > **Bot:** Your name is Sarah.
->
+
 > **User:** What do I love?
 > **Bot:** You love pizza.
 
@@ -105,41 +93,17 @@ This project is part of my journey exploring **AI memory, conversational agents,
 
 ## 🚀 Future Enhancements
 
-* 🧠 Advanced memory system
-* 📦 Database persistence
-* 🌐 Deploy on Hugging Face Spaces
-* 🎤 Voice input + speech output
+* 🧠 Advanced memory
+* 📦 Database storage
+* 🌐 Deploy to Hugging Face Spaces
+* 🎤 Voice chat
 
 ---
 
-⭐ **If you found this helpful, please star the repo — it motivates my learning!**
-
-```
 
 ---
 
-### ✅ After this, add your screenshot like this:
+### Next step
 
-```
-
-### 📸 Screenshot
-
-<img src="./images/screenshot.jpg" width="600">
-```
-
-*(make sure the screenshot file is inside an `images` folder in the repo)*
-
----
-
-### Done 🎯
-
-Now your README will display correctly with formatting.
-
-Do you want me to help you:
-
-✅ Create an `images/` folder
-✅ Help you upload the screenshot properly
-✅ Add badges (Python, HuggingFace, Gradio)
-✅ Add Installation GIF demo
-
-Tell me which!
+✅ Tell me when you're ready — I’ll help you **add the screenshot correctly** next.
+````
