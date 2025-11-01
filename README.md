@@ -100,9 +100,3 @@ This project is part of my journey exploring **AI memory, conversational agents,
 ---
 
 
----
-
-### Next step
-
-✅ Tell me when you're ready — I’ll help you **add the screenshot correctly** next.
-````
